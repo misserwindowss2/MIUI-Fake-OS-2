@@ -1,3 +1,1 @@
-OriginOS WEB 
-
-OOSP - OriginWEB open source project
+MIUI Fake Web, edited files from OriginOS WEB
